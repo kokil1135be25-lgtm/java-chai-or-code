@@ -5,8 +5,8 @@ const b = [4,5,6]
 // console.log(a);
 // console.log(a[3][0]);
 
-// const c = a.concat(b)
-// console.log(c);
+const c = a.concat(b)
+console.log(c);
 
 // const d = [...a, ...b]
 // console.log(d);
